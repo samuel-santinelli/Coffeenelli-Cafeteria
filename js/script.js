@@ -27,7 +27,6 @@ document.querySelector('#cart-btn').onclick = () =>{
     searchForm.classList.remove('active');
 }
 
-// Seção que faz as animações conforme o scroll é acionado
 window.onscroll = () =>{
     navbar.classList.remove('active');
     searchForm.classList.remove('active');
