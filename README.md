@@ -4,6 +4,8 @@
 
 > A cafeteria Coffenelli procura sempre sair do padrão... um bom café é aquele que possui um sabor que deixara marcado para o resto da vida! Foi desenvolvido por Samuel Santinelli que sempre procurou uma maneira de deixar o café dispertar muitas emoções através de um gole, tendo em vista que uma empresa de café precisa de um bom portfólio para atrair clientes, resolveu ir avante nesse universo imenso da programação 
 
+>Projeto inspirado em um video no youtube que tem o objetivo de explorar novos elementos do HTML5 e CSS3.
+
 ## Ferramentas que serão utilizadas
   <div style="display: inline_block">
   <img align="center" alt="Samuel-Js" height="40"width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
